@@ -1,8 +1,6 @@
 line 1
 line 2
-<<<<<<< HEAD
-line 3 
+line 3 edite
+
 line 4
 
-=======
->>>>>>> parent of 7687e74 (gitignore and new modified in main.txt)
